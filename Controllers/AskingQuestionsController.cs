@@ -1,3 +1,7 @@
+//Pedro Castaneda
+//10-25-2022
+//Asking Questions - Endpoint
+//Create a Controller with an Enpoint that calls a function that allows user to have a conversation with the computer
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
